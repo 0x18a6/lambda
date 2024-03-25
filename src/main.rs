@@ -22,5 +22,5 @@ fn main() {
     let public_key = hex::encode(public_key);
     let public_key = &public_key[0..96]; // public_key is the x coordinate
 
-    println!("🔐 Public key:\n{:?}", public_key);
+    println!("🔐 Public key:\n{}", public_key);
 }
