@@ -1,7 +1,9 @@
 use lambdaworks_math::{
     cyclic_group::IsGroup,
     elliptic_curve::{
-        short_weierstrass::{curves::bls12_381::curve::BLS12381Curve, point::{Endianness, PointFormat}},
+        short_weierstrass::{
+            curves::bls12_381::curve::BLS12381Curve,
+            point::{Endianness, PointFormat}},
         traits::IsEllipticCurve,
     },
 };
