@@ -6,3 +6,4 @@ This project computes the public key associated with the secret key 0x6C616D6264
 
 - [Elliptic curve models currently supported by lambdaworks](https://github.com/lambdaclass/lambdaworks/tree/main/math/src/elliptic_curve)
 - [BLS12-381: Keys and Signatures Sizes](https://ethresear.ch/t/bls12-381-keys-and-signatures-sizes/6152/2)
+- [Public Key: A point on the elliptic curve](https://learnmeabitcoin.com/technical/keys/public-key/#formats)
